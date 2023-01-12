@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ibr5500/MyNFT/issues"
   },
-  "homepage": "https://github.com/ibr5500/MyNFT#readme"
+  "homepage": "https://github.com/ibr5500/MyNFT#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.6"
+  }
 }
